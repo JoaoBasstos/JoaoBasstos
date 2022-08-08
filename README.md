@@ -1,5 +1,5 @@
 <h1> Olá, me chamo João Pedro!</h1>
-<h2> Bem vindo ao meu perfil GitHub U+1F488</h2>
+<h2> Bem vindo ao meu perfil GitHub <meta>U+1F488</meta></h2>
 - 👋 Hi, I’m @JoaoBasstos
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
