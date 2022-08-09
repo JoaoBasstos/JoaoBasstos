@@ -12,10 +12,15 @@
 
 <img src = "https://user-images.githubusercontent.com/59102206/183526309-4ae8bb83-b6d3-4abf-8f5c-08fec96d5578.svg" width ="40" height = "40"> <img src ="https://user-images.githubusercontent.com/59102206/183531845-5784c1bf-2061-4a62-b15f-d2d235c66de4.svg"  width ="40" height = "40">
 
+<h2> Redes Sociais</h2> </br>
+
+<a href=https://www.linkedin.com/in/jo%C3%A3o-pedro-bastos> <img src = "https://user-images.githubusercontent.com/59102206/183540417-cb913d61-41b7-4b24-9bd3-4fbbb0018123.svg" width="75" height="21"></a> <a href = "https://twitter.com/Joaopedrobastos"><img src = "https://user-images.githubusercontent.com/59102206/183540985-8d4281f5-26a8-4f87-a849-33a3a59df60b.svg" width ="75" height="21"></a>
 <!---
 JoaoBasstos/JoaoBasstos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 
 
 
